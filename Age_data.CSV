@@ -1,0 +1,17 @@
+﻿Age (bin),Survived,Count of train.csv,% of Total Count of train.csv
+70,Not Survived,6,0.840336134%
+60,Not Survived,13,1.820728291%
+50,Not Survived,28,3.921568627%
+40,Not Survived,55,7.703081232%
+30,Not Survived,94,13.165266106%
+20,Not Survived,143,20.028011204%
+10,Not Survived,61,8.543417367%
+0,Not Survived,24,3.361344538%
+80,Survived,1,0.140056022%
+60,Survived,6,0.840336134%
+50,Survived,20,2.801120448%
+40,Survived,34,4.761904762%
+30,Survived,73,10.224089636%
+20,Survived,77,10.784313725%
+10,Survived,41,5.742296919%
+0,Survived,38,5.322128852%
